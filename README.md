@@ -1,6 +1,6 @@
 - 👋 Ola, meu nome é Gabriel Terres e sou estudante de Ciência da Computação
 - 👀 Tenho interesse em aprimorar meus conhecimentos e expandir minha rede de conexões
-- 🌱 Atualmente estou aprendendo Java escript e participando do bootcamp Carrefour Web Developer
+- 🌱 Atualmente estou aprendendo Java escript e participando do bootcamp Carrefour Web Developer pela DIO
 - 💞️ Procuro oportunidades de colaborar em pequenos projetos e de aprender novas tecnologias 
 
 
